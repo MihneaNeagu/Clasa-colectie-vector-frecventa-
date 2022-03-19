@@ -1,0 +1,3 @@
+C:/STRUCTURI DE DATE/seminar2/cmake-build-debug/CMakeFiles/seminar2.dir
+C:/STRUCTURI DE DATE/seminar2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/STRUCTURI DE DATE/seminar2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

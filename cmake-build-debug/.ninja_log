@@ -1,0 +1,9 @@
+# ninja log v5
+25	195	6690696770083979	CMakeFiles/seminar2.dir/collection.cpp.obj	8ceceb82cd32eb20
+0	324	6690696771373456	CMakeFiles/seminar2.dir/main.cpp.obj	86b6442ad254976d
+326	519	6690696773280925	seminar2.exe	b6fbf32c6bf10a69
+2	100	6693553941066667	CMakeFiles/seminar2.dir/collection.cpp.obj	8ceceb82cd32eb20
+13	300	6693553943096581	CMakeFiles/seminar2.dir/main.cpp.obj	86b6442ad254976d
+300	396	6693553944014616	seminar2.exe	b6fbf32c6bf10a69
+1	227	6693554130089275	CMakeFiles/seminar2.dir/main.cpp.obj	86b6442ad254976d
+227	305	6693554130902880	seminar2.exe	b6fbf32c6bf10a69
